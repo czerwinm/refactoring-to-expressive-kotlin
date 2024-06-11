@@ -1,4 +1,10 @@
-# gilded-rose-tdd
-A TDD implementation of the Gilded Rose stock control system
+# Refactoring to Expressive Kotlin
 
-You can code-along with Duncan on [YouTube](https://youtube.com/playlist?list=PL1ssMPpyqocg2D_8mgIbcnQGxCPI2_fpA)
+This repository is a fork containing code before and after the refactoring done by Duncan McGregor and Dmitriy Kandalov at KotlinConf 2024 in their talk "Refactoring to Expressive Kotlin."
+
+## Branches
+
+- **inexpressive**: contains the code before refactoring
+- **expressive**: contains the code after refactoring
+
+For more resources related to this talk, visit: [Refactoring to Expressive Kotlin Resources](https://java-to-kotlin.dev/2024/05/23/kotlinconf-resources.html)
